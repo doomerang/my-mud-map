@@ -14,5 +14,5 @@ jobs:
   pages:
     uses: Delwing/mudlet-map-page/.github/workflows/deploy-pages.yml@v1
     with:
-      map-file: maps/map.dat
+      map-file: 
       title: My MUD Map
